@@ -11,5 +11,5 @@ Instala un servidor web local, coloca el archivo PHP y la imagen en la carpeta c
 
 ## Autora: 
  Luz Belen Cosajay Campos 
- carnet 25009390
- correo: luz.cosajay@galileo.edu
+ Carnet: 25009390
+ Correo: luz.cosajay@galileo.edu
